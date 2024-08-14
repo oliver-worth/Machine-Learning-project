@@ -1,4 +1,5 @@
 # Megaline Mobile Plan Recommendation Model
+![Best Cell Phone Plans](mobileplan.png)
 ## Project Overview
 Megaline, a mobile carrier, has identified that many of their subscribers are still using legacy plans. To encourage users to switch to newer plans—Smart or Ultra—Megaline aims to develop a predictive model that analyzes subscribers' behavior and recommends the most suitable plan. The goal of this project is to create a classification model with an accuracy threshold of 0.75 to correctly predict whether a subscriber should be on the Smart or Ultra plan.
 
